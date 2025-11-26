@@ -1,0 +1,15 @@
+Alex Pswd123 50.5 1 0 0.05 0.15
+Denis Deniska 0 0
+Dina D_I_N_A 2500.2 2 3 0.1 0.01 100 3072
+Elina ElinaP 4500 2 3 0.15 0.01 120 5120
+Irina Irina_01 5.5 0
+Ivan SuperPswd 980.5 2 2 0 0.03 75 1536
+Kate Pass321 75.2 1 0 0.05 0.14
+Leo Zxcvbnm 10.1 1 3 0.2 0.2
+Masha Pswd456 120.8 1 1 0.1 0.1
+Max 123Max 1800 2 0 0.05 0.02 60 1024
+Nina User1234 1500 2 1 0.15 0.02 50 1024
+Oleg Qwerty99 300 1 2 0 0.08
+Pavel P_a_v_e_l 25 0
+Svetlana Light 50 0
+Tim T_i_m 15 0
